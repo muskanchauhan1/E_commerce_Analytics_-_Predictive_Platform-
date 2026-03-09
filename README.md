@@ -93,7 +93,7 @@ Source: [Kaggle - Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazili
 ---
 
 ##  Contributors
-- Team 007 members
+- Team 008 members
 - Guide: Sumit Patil
 - Mentor: Prashant Bhosale sir
 ![Contribution](images/Team_photo.png)
