@@ -96,18 +96,13 @@ Source: [Kaggle - Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazili
 - Team 007 members
 - Guide: Sumit Patil
 - Mentor: Prashant Bhosale sir
-- Project Lead: Siddhant Sharma
-- ML Engineer: Udhav Kardile
-- Data Analyst: Muskan Chauhan
-- Fronted Developer: Rahul Behra
-- Cloud Engineer: Naresh Khanderay
-- Data Engineer: Adavit Patil
+![Contribution](images/Team_photo.png)
 
 ---
 
 ##  Contact
-📧 muskanchauhan6065@gmail.com  
-🔗 https://www.linkedin.com/in/muskanchauhan6065/
+📧 02advait@gmail.com  
+🔗 https://www.linkedin.com/in/02advait
 
 ---
 
