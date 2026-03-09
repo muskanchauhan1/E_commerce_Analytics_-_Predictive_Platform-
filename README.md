@@ -101,8 +101,8 @@ Source: [Kaggle - Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazili
 ---
 
 ##  Contact
-📧 02advait@gmail.com  
-🔗 https://www.linkedin.com/in/02advait
+📧 muskanchauhan6065@gmail.com  
+🔗 [https://www.linkedin.com/in/muskanchauhan6065]
 
 ---
 
